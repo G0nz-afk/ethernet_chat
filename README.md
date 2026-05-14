@@ -40,6 +40,7 @@ INTERFACE: The name of your network adapter
 DEST_MAC: The hardware MAC address of the partner machine.
 
 Usage:
+The code will be used for both machines.
 On Machine A (Receiver/Sender):
 Bash
   # Linux
