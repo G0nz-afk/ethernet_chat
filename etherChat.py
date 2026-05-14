@@ -3,8 +3,8 @@ import struct
 from scapy.all import *
 
 CUSTOM_ETHERTYPE = 0x88B5
-INTERFACE = ""
-DEST_MAC = "" 
+INTERFACE = "YOUR NETWORK ADAPTER NAME HERE"
+DEST_MAC = "ff:ff:ff:ff:ff:ff" # Default to broadcast or a dummy MAC
 
 def receive_thread():
     MY_MAC = get_if_hwaddr(INTERFACE) 
