@@ -39,7 +39,6 @@ Usage:
 -Chat: Type your message and hit Enter. The incoming messages will appear labeled as Partner.
 
 Security Note
--This project is for educational pu![Uploading Screenshot 2026-05-14 022205.png…]()
-rposes. Because it operates at Layer 2, it is not routable across the internet. It is intended for use in controlled, local environments or virtualized networks (like VirtualBox).
+-This project is for educational purposes. Because it operates at Layer 2, it is not routable across the internet. It is intended for use in controlled, local environments or virtualized networks (like VirtualBox).
 
 <img width="651" height="441" alt="Screenshot 2026-05-14 022205" src="https://github.com/user-attachments/assets/6ea3e56a-0596-4bde-9d3c-f3973ca745f3" />
