@@ -24,7 +24,10 @@ Prerequisites:
 -Administrative Privileges: Raw sockets require sudo or Administrator access to run.
 
 Configuration:
--INTERFACE: The name of your network adapter (e.g., "VirtualBox Host-Only Ethernet Adapter" or "enp0s8").
+Before running, open etherChat.py and update the INTERFACE and DEST_MAC variables.
+On Windows, use ipconfig /all to find your adapter name.
+On Linux, use ip link to find your interface
+-INTERFACE: The name of your network adapter 
 -DEST_MAC: The hardware MAC address of the partner machine.
 
 Usage:
