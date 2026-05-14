@@ -45,7 +45,7 @@ Usage:
   # Linux
   sudo python3 etherChat.py
   # Windows (Run PowerShell as Admin)
-  python etherChat.py
+  python layer2_chat.py
   On Machine B (Partner):
   Repeat the same command.
 -Chat: Type your message and hit Enter. The incoming messages will appear labeled as Partner.
